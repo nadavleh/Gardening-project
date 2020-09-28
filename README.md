@@ -41,6 +41,7 @@ This is a watering computer for home gardening. The circuit is connected to a 5V
 The computer includes a LCD screen which shows a menu the user can navigate in and choose the parameters of the watering schedule (how often do we want to water, for how long we want to run the pump and a manual "pump on/off" option). Keeping time with the arduino may pose some problems for long term use as the counter one uses to keep track of the time, overflows after around a straight month of use. Therefor, I sugest modifying this project to include an external clock module if you are interrested in a more stable software.
 
 ![photo1]
+![photo2]
 
 ### Built With
 
@@ -82,4 +83,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [license-shield]: https://img.shields.io/github/license/nadavleh/repo.svg?style=flat-square
 [product-screenshot]: https://github.com/nadavleh/Gardening-project/blob/master/gardening%20project%20new%20code.png
 [photo1]: https://github.com/nadavleh/Gardening-project/blob/master/img1.jpg
+[photo2]: https://github.com/nadavleh/Gardening-project/blob/master/img3.jpg
 
