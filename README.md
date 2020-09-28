@@ -37,9 +37,11 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://github.com/nadavleh/Gardening-project/blob/master/gardening%20project%20new%20code.png)
+This is a watering computer for home gardening. The circuit is connected to a 5V power supply, to which we also connect a 5V pump as seen in the diagram.
+The computer includes a LCD screen which shows a menu the user can navigate in and choose the parameters of the watering schedule (how often do we want to water, for how long we want to run the pump and a manual "pump on/off" option). Keeping time with the arduino may pose some problems for long term use as the counter one uses to keep track of the time, overflows after around a straight month of use. Therefor, I sugest modifying this project to include an external clock module if you are interrested in a more stable software.
 
+[photo1]
 
-The files are interliked, make sure they are all in your MATLAB's path inorder for them to work.
 ### Built With
 
 * [ARDUINO](https://www.arduino.cc/)
@@ -79,4 +81,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/nadavleh/repo/issues
 [license-shield]: https://img.shields.io/github/license/nadavleh/repo.svg?style=flat-square
 [product-screenshot]: https://github.com/nadavleh/Gardening-project/blob/master/gardening%20project%20new%20code.png
+[photo1]: https://github.com/nadavleh/Gardening-project/blob/master/img1.jpg
 
