@@ -40,7 +40,7 @@
 This is a watering computer for home gardening. The circuit is connected to a 5V power supply, to which we also connect a 5V pump as seen in the diagram.
 The computer includes a LCD screen which shows a menu the user can navigate in and choose the parameters of the watering schedule (how often do we want to water, for how long we want to run the pump and a manual "pump on/off" option). Keeping time with the arduino may pose some problems for long term use as the counter one uses to keep track of the time, overflows after around a straight month of use. Therefor, I sugest modifying this project to include an external clock module if you are interrested in a more stable software.
 
-[photo1]
+![photo1]
 
 ### Built With
 
